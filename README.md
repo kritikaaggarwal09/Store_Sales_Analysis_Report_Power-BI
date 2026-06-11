@@ -1,4 +1,4 @@
-# 🏪 Store Sales Analysis Project | Power BI
+# 🏪 E-Commerce Sales Analysis Project | Power BI
 
  ## 📌 Project Overview
  This repository contains an interactive **Power BI Store Sales Analysis Dashboard** developed to analyze and visualize sales performance across different business dimensions. The project helps in understanding customer behavior, sales trends, delivery performance, and regional sales distribution through interactive visualizations and business insights. 

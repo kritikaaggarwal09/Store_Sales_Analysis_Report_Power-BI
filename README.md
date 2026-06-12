@@ -16,6 +16,7 @@
 - Track delivery and channel performance
 - Gender & Age Group Analysis
 - Ship-city and Ship-state sales visualization
+- Designed dynamic visualizations and KPI card to track revenue
 
 ---
 
@@ -123,9 +124,9 @@ Through this project, I improved my skills in:
 
 Dashboard screenshots here.
 
-<img width="1311" height="739" alt="Screenshot 2026-06-12 010259" src="https://github.com/user-attachments/assets/a19f24b5-2e09-46b2-b9d5-8b0ba7a2b1ed" />
+<img width="1312" height="734" alt="Screenshot 2026-06-12 160326" src="https://github.com/user-attachments/assets/763699d8-5928-46b0-9ad9-9485a50ed73f" />
 
-<img width="1310" height="737" alt="Screenshot 2026-06-12 010323" src="https://github.com/user-attachments/assets/b0ba9fbb-8906-4d85-93a7-95799973cc3c" />
+<img width="1309" height="730" alt="Screenshot 2026-06-12 160345" src="https://github.com/user-attachments/assets/417d64d5-b24f-4681-8f33-a181b2ede2d6" />
 
 
 Key Analysis:-
